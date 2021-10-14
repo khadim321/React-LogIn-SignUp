@@ -1,0 +1,11 @@
+.log-in-form-css {
+  max-width: 400px;
+  margin: auto;
+  margin-bottom: 200px;
+  margin-top: 50px;
+  padding: 1em;
+  background-color: #9C0404;
+  border-radius: 5%;
+  height: max-content;
+  color: white;
+}

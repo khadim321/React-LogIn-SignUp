@@ -1,0 +1,41 @@
+.container-fluid{
+background-color: #9C0404;
+}
+.logo-img{
+   padding-left: 85px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+    }
+.nav-item{
+    margin-left: 23px;
+}
+.navbar {
+    padding-top: unset !important;
+    padding-bottom: unset !important;
+}
+.nav-link{
+    color: white !important;
+    font-size: 18px;
+    font-size: larger;
+}
+.nav-section{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.nav-button{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.btn-secondary{
+    background-color: #FF9C00;
+}
+.navbar-toggler-icon {
+    filter: invert(100%);
+}
+.navbar-toggler{
+    border: 1px solid whitesmoke !important;
+}
